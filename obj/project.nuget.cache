@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRDjoSuLNd5ynF+qeiY62+Ir124mhgY68maoGbzQGyE3XcILuLwlKO6gWhfQIl1jxrb7UGRSfC8vLiNex3kLkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romain.giroux\\source\\repos\\How2Program_Asteroid_Desktop\\How2Program_Asteroid_Desktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romain.giroux\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\romain.giroux\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
